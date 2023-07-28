@@ -1,4 +1,4 @@
-README for QR Code Generator - GitHub
+
 
 # QR Code Generator
 
